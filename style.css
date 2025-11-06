@@ -52,9 +52,13 @@
  height: 256px;
  border-radius: 100%;
  background: #FFFFFF;
+ display:flex;
+ justify-content: center;
+ algin-items:center;
 }
 
 .circle-box > div > p{
 color: #FF0000
 }
  
+
